@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Componente_QR_Code_React/static/css/main.c0aadaad.css",
+    "main.js": "/Componente_QR_Code_React/static/js/main.16d068ca.js",
+    "static/js/787.8418387b.chunk.js": "/Componente_QR_Code_React/static/js/787.8418387b.chunk.js",
+    "static/media/logo.svg": "/Componente_QR_Code_React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Componente_QR_Code_React/index.html",
+    "main.c0aadaad.css.map": "/Componente_QR_Code_React/static/css/main.c0aadaad.css.map",
+    "main.16d068ca.js.map": "/Componente_QR_Code_React/static/js/main.16d068ca.js.map",
+    "787.8418387b.chunk.js.map": "/Componente_QR_Code_React/static/js/787.8418387b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0aadaad.css",
+    "static/js/main.16d068ca.js"
+  ]
+}
