@@ -1,6 +1,6 @@
 # Componente QR Code
 
-O projeto Jokenpo é um projeto de JavaScript, onde criei um jogo funcional utilizando a linguagem.
+O projeto Componente QR Code é o meu primeiro projeto feito em React.JS, o projeto foi pego do website Frontend Mentor. 
 
 ## Pré Requisitos
 * Navegador
