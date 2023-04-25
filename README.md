@@ -1,6 +1,12 @@
 # Componente QR Code
 
-O projeto Componente QR Code é o meu primeiro projeto feito em React.JS, o projeto foi pego do website Frontend Mentor. 
+O projeto Componente QR Code é o meu primeiro projeto feito em React.JS, o projeto foi pego do website Frontend Mentor. O projeto foi feito primeiro em JavaScript Vanilla, segue o link:
+
+https://github.com/gabrielestefono/componente_qr_code
+
+Em seguida foi feito em Vue.JS, segue o link:
+
+https://github.com/gabrielestefono/Componente_QR_Code_Vue
 
 ## Pré Requisitos
 * Navegador
